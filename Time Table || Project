@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini project || Time table sheet</title>
+</head>
+<body>
+    <!-- Table - Sheet -->
+    <fieldset>
+        <legend>Class Time Table</legend>
+        <table border cellpadding="14px"  >
+            <thead>
+                <tr>
+                    <th colspan="8">Time Table</th>
+                </tr>
+    
+                <tr>
+                    <th>Day/Lecture</th>
+                    <th>1<br/> 09:00 - 09:30</th>
+                    <th>2<br/>09:30 - 10:50</th>
+                    <th>3<br/>11:00 - 12:45</th>
+                    <th>Launch</th>
+                    <th>4<br/>01:30 - 03:00</th>
+                    <th>5<br/>03:00 - 04:00</th>
+                    <th>6<br/>04:00 - 05:00</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Monday</td>
+                    <td>HTML</td>
+                    <td>CSS</td>
+                    <td>JAVA</td>
+                    <td rowspan="5">Launch Break</td>
+                    <td>PYTHON</td>
+                    <td>REACT.JS</td>
+                    <td>NODE.JS</td>
+                </tr>
+                <tr>
+                    <td>Monday</td>
+                    <td>HTML</td>
+                    <td>CSS</td>
+                    <td>JAVA</td>
+                    <td>PYTHON</td>
+                    <td>REACT.JS</td>
+                    <td>NODE.JS</td>
+                </tr>
+                <tr>
+                    <td>Monday</td>
+                    <td>HTML</td>
+                    <td>CSS</td>
+                    <td>JAVA</td>
+                    <td>PYTHON</td>
+                    <td>REACT.JS</td>
+                    <td>NODE.JS</td>
+                </tr>
+                <tr>
+                    <td>Monday</td>
+                    <td>HTML</td>
+                    <td>CSS</td>
+                    <td>JAVA</td>
+                    <td>PYTHON</td>
+                    <td>REACT.JS</td>
+                    <td>NODE.JS</td>
+                </tr>
+                <tr>
+                    <td>Monday</td>
+                    <td>HTML</td>
+                    <td>CSS</td>
+                    <td>JAVA</td>
+                    <td>PYTHON</td>
+                    <td>REACT.JS</td>
+                    <td>NODE.JS</td>
+                </tr>
+                <tr>
+                    <td>Monday</td>
+                    <td>HTML</td>
+                    <td>CSS</td>
+                    <td>JAVA</td>
+                    <td colspan="4">No Lecture</td>
+                    
+                </tr>
+            </tbody>
+        </table>    
+    </fieldset>
+   
+</body>
+</html>
